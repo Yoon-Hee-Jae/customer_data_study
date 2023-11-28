@@ -1,2 +1,1 @@
-# customer_data_study
-고객데이터 분석 
+고객 데이터 분석
